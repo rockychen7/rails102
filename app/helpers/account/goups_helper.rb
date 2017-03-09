@@ -1,0 +1,2 @@
+module Account::GoupsHelper
+end
